@@ -1,0 +1,11 @@
+**/.vscode
+
+**/bin
+**/obj
+
+**/project.lock.json
+
+**/node_modules
+
+**/bundle.js
+**/bundle.js.map
